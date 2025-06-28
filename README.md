@@ -1,5 +1,5 @@
 # Llama2_fine-tuned
-## Project Pending:
+## Project:
 This repository will contain a Jupyter Notebook focused on fine-tuning the LLaMA2 model using Hugging Face's transformers, peft, and trl libraries.
 
 This project fine-tunes the "NousResearch/Llama-2-7b-chat-hf" model using LoRA (Low-Rank Adaptation) for efficient parameter tuning and BitsAndBytes 4-bit quantization for reduced memory usage. It utilizes transformers, peft, and trl libraries to implement supervised fine-tuning on custom instruction-response datasets.
