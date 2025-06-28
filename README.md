@@ -14,7 +14,7 @@ The notebook includes:
 
 ## Current Status:
 The notebook is complete but not yet functional due to following issues:
-- Token access or model download errors from Hugging Face (NousResearch/Llama-2-7b-chat-hf).
+- Token access errors from Hugging Face (NousResearch/Llama-2-7b-chat-hf).
 - Compatibility issues between PyTorch, CUDA, and bitsandbytes.
 
 ## Note
